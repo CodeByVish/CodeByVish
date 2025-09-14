@@ -114,5 +114,12 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
   <a href="https://www.linkedin.com/in/vishakha-maheshwari-7a6b9731a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CodeByVish/CodeByVish/output/snake.svg" alt="Snake animation" />
+</div>
 
 
