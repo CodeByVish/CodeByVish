@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"          # daily 00:00 UTC
+    - cron: "0 0 * * *"          # daily at 00:00 UTC
   workflow_dispatch:              # manual run button
 
 permissions:
-  contents: write                 # allow pushing the generated files
+  contents: write                 # allow pushing generated files
 
 jobs:
   build:
@@ -25,5 +25,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          force_orphan: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
