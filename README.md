@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1100&color=F4ACB7&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Vishakha+Maheshwari;Aspiring+Data+Scientist;AI+Enablement+Intern+%40+Gradiant;Turning+Data+into+Decisions+%F0%9F%8C%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1100&color=F4ACB7&center=true&vCenter=true&width=900&height=100&lines=Hi!+I'm+Vish;Aspiring+Data+Scientist;AI+Enablement+Intern+%40+Gradiant;Turning+Data+into+Decisions+%F0%9F%92%85" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -19,7 +19,7 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
 - 🎓 Coursework: Machine Learning · NLP · Predictive Analytics · AI · DBMS · Data Science  
 - 💼 Internship experience: Deloitte · Zurich Kotak General Insurance  
 - 🌱 Currently preparing for **AWS Solutions Architect Associate (SAA)**  
-- 📫 Reach me: **vishakhamaheshwari19@gmail.com** · [LinkedIn](https://www.linkedin.com/in/vishakha-maheshwari-7a6b9731a/)
+- 🎯 Interests: Applied ML, NLP, analytics for business impact, and model interpretability  
 
 ---
 
@@ -65,12 +65,19 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
   <a href="https://github.com/CodeByVish/parsing-tool">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=parsing-tool&theme=rose_pine&border_color=F4ACB7" />
   </a>
-  <!--
-  Add more pinned project cards below like this:
-  <a href="https://github.com/CodeByVish/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=another-repo&theme=rose_pine&border_color=F4ACB7" />
+  <a href="https://github.com/CodeByVish/Sales-Forecast">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=Sales-Forecast&theme=rose_pine&border_color=F4ACB7" />
   </a>
-  -->
+</div>
+
+---
+
+## 🧩 Problem Solving
+
+<div align="center">
+  <a href="https://leetcode.com/u/vishpish/">
+    <img src="https://leetcard.jacoblin.cool/vishpish?theme=unicorn&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode Stats"/>
+  </a>
 </div>
 
 ---
@@ -86,6 +93,10 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByVish&hide_border=true&layout=compact&theme=rose_pine&title_color=F4ACB7" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByVish&theme=rose_pine&hide_border=true&ring=F4ACB7&fire=F48FB1&currStreakLabel=F4ACB7" alt="GitHub Streak Stats" />
+</div>
+
 ---
 
 ## 🎯 What I’m Learning
@@ -96,9 +107,12 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
 
 ---
 
-## 📫 Let’s Connect
+## 💌 Let’s Connect
 
-Feel free to reach out if you’d like to chat about data science, ML, AI tools, or collaboration opportunities.  
-[LinkedIn](https://www.linkedin.com/in/vishakha-maheshwari-7a6b9731a/) • vishakhamaheshwari19@gmail.com
+<div align="center">
+  <p>Exploring data science roles, collaborations, and cool ML ideas. Say hi!</p>
+  <a href="https://www.linkedin.com/in/vishakha-maheshwari-7a6b9731a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 
 
