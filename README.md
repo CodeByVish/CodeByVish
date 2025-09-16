@@ -78,11 +78,10 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
   <a href="https://leetcode.com/u/vishpish/">
     <img src="https://leetcard.jacoblin.cool/vishpish?theme=unicorn&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode Stats"/>
   </a>
-  
-  <!-- Optional static badges -->
   <br/>
+  <!-- Always-on, static badge (links to your profile) -->
   <a href="https://leetcode.com/u/vishpish/">
-    <img src="https://img.shields.io/badge/LeetCode%20Solved-{{LC_SOLVED}}-FFA116?logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white" />
   </a>
 </div>
 
@@ -100,7 +99,8 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeByVish&theme=rose_pine&hide_border=true&ring=F4ACB7&fire=F48FB1&currStreakLabel=F4ACB7" alt="GitHub Streak Stats" />
+  <!-- NOTE the slash before ?user=  -->
+  <img src="https://streak-stats.demolab.com/?user=CodeByVish&theme=rose_pine&hide_border=true&ring=F4ACB7&fire=F48FB1&currStreakLabel=F4ACB7" alt="GitHub Streak Stats" />
 </div>
 
 ---
