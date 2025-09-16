@@ -63,10 +63,10 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
 
 <div align="center">
   <a href="https://github.com/CodeByVish/parsing-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=parsing-tool&theme=rose_pine&border_color=F4ACB7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=parsing-tool&theme=rose_pine&border_color=F4ACB7&cache_seconds=86400" />
   </a>
   <a href="https://github.com/CodeByVish/Sales-Forecast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=Sales-Forecast&theme=rose_pine&border_color=F4ACB7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=Sales-Forecast&theme=rose_pine&border_color=F4ACB7&cache_seconds=86400" />
   </a>
 </div>
 
@@ -78,6 +78,12 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
   <a href="https://leetcode.com/u/vishpish/">
     <img src="https://leetcard.jacoblin.cool/vishpish?theme=unicorn&font=Fira%20Code&ext=heatmap&border=0&radius=16" alt="LeetCode Stats"/>
   </a>
+  
+  <!-- Optional static badges -->
+  <br/>
+  <a href="https://leetcode.com/u/vishpish/">
+    <img src="https://img.shields.io/badge/LeetCode%20Solved-{{LC_SOLVED}}-FFA116?logo=leetcode&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -85,16 +91,16 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
 ## 🔍 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeByVish&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeByVish&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&cache_seconds=86400" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByVish&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=rose_pine&title_color=F4ACB7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByVish&hide_border=true&layout=compact&theme=rose_pine&title_color=F4ACB7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByVish&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=rose_pine&title_color=F4ACB7&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByVish&hide_border=true&layout=compact&theme=rose_pine&title_color=F4ACB7&cache_seconds=86400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByVish&theme=rose_pine&hide_border=true&ring=F4ACB7&fire=F48FB1&currStreakLabel=F4ACB7" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=CodeByVish&theme=rose_pine&hide_border=true&ring=F4ACB7&fire=F48FB1&currStreakLabel=F4ACB7" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -124,6 +130,3 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
     <img src="https://raw.githubusercontent.com/CodeByVish/CodeByVish/output/snake.svg" alt="Snake animation" />
   </picture>
 </div>
-
-
-
