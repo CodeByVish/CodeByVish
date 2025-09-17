@@ -126,7 +126,7 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByVish/CodeByVish/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/CodeByVish/CodeByVish/output/snake.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByVish/CodeByVish/output/snake-dark.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/CodeByVish/CodeByVish/output/snake.svg?v=2" alt="Snake animation" />
   </picture>
 </div>
