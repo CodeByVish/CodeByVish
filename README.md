@@ -63,10 +63,10 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
 
 <div align="center">
   <a href="https://github.com/CodeByVish/parsing-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=parsing-tool&theme=rose_pine&border_color=F4ACB7&cache_seconds=86400" />
+    <img src="https://github-readme-stats-lake-sigma-98.vercel.app/api/pin/?username=CodeByVish&repo=parsing-tool&theme=rose_pine&border_color=F4ACB7&cache_seconds=86400" alt="parsing-tool repo card" />
   </a>
   <a href="https://github.com/CodeByVish/Sales-Forecast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=Sales-Forecast&theme=rose_pine&border_color=F4ACB7&cache_seconds=86400" />
+    <img src="https://github-readme-stats-lake-sigma-98.vercel.app/api/pin/?username=CodeByVish&repo=Sales-Forecast&theme=rose_pine&border_color=F4ACB7&cache_seconds=86400" alt="Sales-Forecast repo card" />
   </a>
 </div>
 
@@ -94,8 +94,8 @@ I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passio
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByVish&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=rose_pine&title_color=F4ACB7&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByVish&hide_border=true&layout=compact&theme=rose_pine&title_color=F4ACB7&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats-lake-sigma-98.vercel.app/api?username=CodeByVish&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=rose_pine&title_color=F4ACB7&cache_seconds=86400" alt="GitHub stats card" />
+  <img height="180em" src="https://github-readme-stats-lake-sigma-98.vercel.app/api/top-langs/?username=CodeByVish&hide_border=true&layout=compact&theme=rose_pine&title_color=F4ACB7&cache_seconds=86400" alt="Top languages card" />
 </div>
 
 <div align="center">
