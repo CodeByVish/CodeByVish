@@ -14,7 +14,7 @@
 
 ## 🌸 About Me
 
-I’m **Vishakha Maheshwari**, an AI Enablement Intern at Gradiant with a passion for turning data into insights. I’m pursuing a career in Data Science, and I’m always eager to learn, build, and solve real-world problems.
+I’m **Vishakha Maheshwari** I’m pursuing a career in Data Science, and I’m always eager to learn, build, and solve real-world problems.
 
 - 🎓 Coursework: Machine Learning · NLP · Predictive Analytics · AI · DBMS · Data Science  
 - 💼 Internship experience: Deloitte · Zurich Kotak General Insurance  
