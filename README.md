@@ -59,18 +59,6 @@ I’m **Vishakha Maheshwari** I’m pursuing a career in Data Science, and I’m
 
 ---
 
-## 🚀 Projects
-
-<div align="center">
-  <a href="https://github.com/CodeByVish/parsing-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=parsing-tool&theme=rose_pine&border_color=F4ACB7&cache_seconds=86400" alt="parsing-tool repo card" />
-  </a>
-  <a href="https://github.com/CodeByVish/Sales-Forecast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByVish&repo=Sales-Forecast&theme=rose_pine&border_color=F4ACB7&cache_seconds=86400" alt="Sales-Forecast repo card" />
-  </a>
-</div>
-
----
 
 ## 🧩 Problem Solving
 
